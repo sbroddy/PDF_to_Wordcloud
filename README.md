@@ -6,3 +6,5 @@ Inspired by this work:  https://towardsdatascience.com/word-clouds-in-python-com
 Consolodated everything into one script, and changed from 
 reading local files to retrieving URLs for the input PDF 
 and the image mask.
+
+usage:  cmd "<pdf_url>" "<mask_url>" "[optional, additional, stop, words]"
